@@ -1,2 +1,2 @@
 # Hack-The-Flag
-Capture The Flag 2020 - ATHS
+Capture The Flag 2020 - ATHSec
